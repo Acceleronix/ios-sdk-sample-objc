@@ -36,4 +36,4 @@ static NSString * const UserSecretNA = @"";
 ```
 
 # References
-For more information on the Acceleronix iOS App SDK, please refer to the [API documentation](https://github.com/thridparty-cloud2/quecloud-iot-ios-sdk-demo-objc/blob/master/API.md).
+For more information on the Acceleronix iOS App SDK, please refer to the [API documentation](https://github.com/Acceleronix/ios-sdk-sample-objc/blob/main/API_doc_ios.md).
